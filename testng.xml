@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test">
+    <test verbose="2" preserve-order="true" name="C:/CR SOLA/Test cases/selenium/src/test/java/hello1/Myone.java">
+        <classes>
+            <class name="hello1.Renuglaty"/>
+        </classes>
+    </test>
+</suite>
