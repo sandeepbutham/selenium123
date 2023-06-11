@@ -47,6 +47,7 @@ public class Sceond {
 
 
     driver.findElement(By.xpath("//*[text()='Search']")).click();
+        driver.findElement(By.xpath("//*[text()='Search']")).click();
 
 
 
